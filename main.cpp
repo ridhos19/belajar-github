@@ -5,5 +5,6 @@ int main() {
     cout << "Halo GitHub!" << endl;
     cout << "Ini project pertama saya." << endl;
     cout << "Belajar Git dan GitHub" << endl;
+    cout << "Nama saya ridho" << endl;
     return 0;
 }
